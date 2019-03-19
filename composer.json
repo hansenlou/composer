@@ -1,0 +1,14 @@
+{
+    "name": "hansenlou/composer",
+    "description": "a test composer project",
+    "type": "porject",
+    "require": {},
+    "license": "helloworld",
+    "authors": [
+        {
+            "name": "Hansen Lou",
+            "email": "hansenlou@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
