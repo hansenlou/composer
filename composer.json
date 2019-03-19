@@ -2,7 +2,7 @@
     "name": "hansenlou/composer",
     "description": "a test composer project",
     "type": "porject",
-    "license": "mit",
+    "license": "helloworld",
     "authors": [
         {
             "name": "Hansen Lou",
