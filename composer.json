@@ -2,13 +2,13 @@
     "name": "hansenlou/composer",
     "description": "a test composer project",
     "type": "porject",
-    "require": {},
-    "license": "helloworld",
+    "license": "mit",
     "authors": [
         {
             "name": "Hansen Lou",
             "email": "hansenlou@163.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
